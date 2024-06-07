@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161369266704",
+    "project_id": "crm-kelava",
+    "storage_bucket": "crm-kelava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161369266704:android:0ddc1ae958981f0e8d0895",
+        "android_client_info": {
+          "package_name": "com.kelava.crm.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161369266704-e0b5hov3nojib5gk6c7v4cp12c3856gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuys_ASRl9RzVdg2hj6RNaX6gKMGE58qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161369266704-e0b5hov3nojib5gk6c7v4cp12c3856gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

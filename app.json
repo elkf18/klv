@@ -1,0 +1,29 @@
+{
+  "name": "kelava-crm-dev",
+  "displayName": "- Kelava CRM -",
+  "expo": {
+    "name": "- Kelava CRM -",
+    "slug": "kelava-crm-dev",
+    "version": "0.0.1",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.kelava.crm.dev",
+      "buildNumber": "0.0.1",
+      "infoPlist": {
+        "NSCameraUsageDescription": "To capture booking confirmation.",
+        "NSPhotoLibraryUsageDescription": "To choose booking confirmation from existing photos."
+      }
+    },
+    "android": {
+      "versionCode": 1,
+      "package": "com.kelava.crm.dev",
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "orientation": "portrait",
+    "androidStatusBar": {
+      "barStyle": "dark-content",
+      "backgroundColor": "#00000000",
+      "translucent": true
+    }
+  }
+}
